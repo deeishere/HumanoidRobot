@@ -1,0 +1,14 @@
+Openai
+Whisper
+sounddevice
+soundfile
+numpy
+tensorflow
+pytorch
+os
+dotenv
+python-dotenv
+flask[async]
+flask
+flask-cors
+uvicorn
