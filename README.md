@@ -14,7 +14,12 @@ This project implements a simple command-line simulation of a humanoid robot.
 - **Distance Sensor** – To detect nearby presence (used to trigger waving)
 
 ---
+## Used Libraries 
+- Arduino Libraries for ESP32
+`https://www.dropbox.com/scl/fo/ni8md8n1aha74t8wtgc7o/AL3rP5eLNBc1SCrsHDbVagk/Windows/Arduino_C/1.%20Get%20started%20with%20Arduino%20C%20before%20class/Arduino%20Libraries?dl=0&rlkey=2pyrlpnpicl60a3m5axjo6371`
 
+
+---
 ## Files
  ### 1. 🦾 Arms
 - The **right arm** will automatically raise and wave if someone gets closer than **10 cm** 
