@@ -38,6 +38,14 @@ This project implements a simple command-line simulation of a humanoid robot.
 ### 3. 🔊 Speaker
 - **TBA** – Will include voice responses or sound effects based on actions and interactions.
 
+### 4. ChatBot
+- the robot will speak to you once you call it
+   - you can ask about the Club info
+   - you can ask any thing with Arabic or English
+     
+### 5.Now he can see
+- the robot will detect the **objects** and also when **wavaing** !!
+  
 ---
 
 ## ▶️ How to Run
